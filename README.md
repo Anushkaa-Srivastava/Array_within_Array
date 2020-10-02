@@ -24,6 +24,8 @@ Output Format-
 
 For each pair of i and j values (i.e., for each query), print a single integer denoting the element located at index j of the array referenced by a[i] . There should be a total of q lines of output.
 
+For more clarity, lets give a sample test case:
+
 Sample Input
 
 2 2
@@ -31,7 +33,10 @@ Sample Input
 5 1 2 8 9 3
 0 1
 1 3
+
 Sample Output
 
 5
 9
+
+That's all.
